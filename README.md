@@ -1,14 +1,3 @@
 # Welcome to GitHub Pages of Gilles COSTANTINO
 - [Accueil](https://github.com/gicostantino/gicostantino.github.io)  
-- [DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/)  
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gicostantino/dubii2020_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/blob/master/rapport_exam_M4_M5_gcostantino.nb.html)  
