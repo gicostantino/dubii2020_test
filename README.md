@@ -22,10 +22,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5)
+[DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/)
 [Link](url) and ![Image](src)
 ```
-
+[DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
