@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages of Gilles COSTANTINO
+[Acceuil](https://github.com/gicostantino/)
+[DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/)
 
-You can use the [editor on GitHub](https://github.com/gicostantino/dubii2020_test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -25,6 +24,8 @@ Syntax highlighted code block
 [DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/)
 [Link](url) and ![Image](src)
 ```
+
+
 [DUBii 2020 Miniprojet M4_M5](https://github.com/gicostantino/DUBii2020_M4_5/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
